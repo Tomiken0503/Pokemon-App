@@ -6,5 +6,5 @@
 「次へ」ボタンで次ページ表示<br>
 「前へ」ボタンで前ページ表示
 
-![Alt text](%E3%83%8F%E3%83%BC%E3%83%88%E3%82%99%E3%82%B3%E3%83%92%E3%82%9A%E3%83%BC1.png)
-![Alt text](%E3%83%8F%E3%83%BC%E3%83%88%E3%82%99%E3%82%B3%E3%83%92%E3%82%9A%E3%83%BC2.png)
+![Alt text](hardCopy1.png)
+![Alt text](hardCopy2.png)
